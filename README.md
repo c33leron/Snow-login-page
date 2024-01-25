@@ -11,7 +11,7 @@
 ![image](https://github.com/c33leron/Snow-login-page/assets/121175896/1f4a5498-7d12-44a9-b2b5-d4dd82c57494)
 
 ## Ссылки проекта
-Проект доступен по ссылке - https://c33leron.github.io/Snow-Animated-Login-Page/
+Проект доступен по ссылке - https://c33leron.github.io/Snow-login-page/
 
 ### Ссылка на ресурс
 
