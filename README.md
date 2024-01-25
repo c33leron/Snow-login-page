@@ -8,7 +8,7 @@
 ![Particles JS](https://img.shields.io/badge/particles%20js-10135E?style=for-the-badge&logo=particlejs&logoColor=white)&nbsp;
 
 ## Скриншот
-![image](https://github.com/c33leron/Snow-Animated-Login-Page/assets/121175896/03490798-18ba-4ef3-81e5-1d593e49b904)
+![image](https://github.com/c33leron/Snow-login-page/assets/121175896/1f4a5498-7d12-44a9-b2b5-d4dd82c57494)
 
 ## Ссылки проекта
 Проект доступен по ссылке - https://c33leron.github.io/Snow-Animated-Login-Page/
